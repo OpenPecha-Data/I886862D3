@@ -1,0 +1,92 @@
+id: I886862D3
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:24:30.189624'
+last_modified: '2022-05-27T19:24:30.189639'
+parser: null
+source_metadata:
+  title: 'Asaṅga: Abhidharmasamuccaya'
+  language: zh
+  base:
+    fABF6:
+      title: Title
+      base_file: fABF6.txt
+      order: 1
+    f6985:
+      title: CI_§62
+      base_file: f6985.txt
+      order: 2
+    fFD48:
+      title: CI_§63
+      base_file: fFD48.txt
+      order: 3
+    f76C5:
+      title: CI_§64
+      base_file: f76C5.txt
+      order: 4
+    fF57A:
+      title: CI_§65
+      base_file: fF57A.txt
+      order: 5
+    f46E4:
+      title: CI_§66
+      base_file: f46E4.txt
+      order: 6
+    f6DB5:
+      title: CI_§67
+      base_file: f6DB5.txt
+      order: 7
+    f7F44:
+      title: CI_§68
+      base_file: f7F44.txt
+      order: 8
+    fAD4F:
+      title: CI_§69
+      base_file: fAD4F.txt
+      order: 9
+    f7E38:
+      title: CI_§70
+      base_file: f7E38.txt
+      order: 10
+    fC83B:
+      title: CI_§71
+      base_file: fC83B.txt
+      order: 11
+    f72C2:
+      title: CI_§72
+      base_file: f72C2.txt
+      order: 12
+    fDC43:
+      title: CI_§73
+      base_file: fDC43.txt
+      order: 13
+    f78D4:
+      title: CI_§74
+      base_file: f78D4.txt
+      order: 14
+    f8F17:
+      title: CI_§75
+      base_file: f8F17.txt
+      order: 15
+    fD404:
+      title: CI_§76
+      base_file: fD404.txt
+      order: 16
+    f1B32:
+      title: CI_§77
+      base_file: f1B32.txt
+      order: 17
+    f8030:
+      title: CI_§78
+      base_file: f8030.txt
+      order: 18
+  chapter_to_tile:
+    CI: Chapter II
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
